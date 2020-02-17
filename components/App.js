@@ -1,4 +1,5 @@
 import React from 'react'
+import Footer from "./Footer.js"
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <main>
         <p>Main content goes here...</p>
       </main>
+      <Footer />
     </div>
   )
 }
