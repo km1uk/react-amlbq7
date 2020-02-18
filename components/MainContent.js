@@ -2,8 +2,8 @@ import React from 'react'
 
 export default function MainContent() {
   return (
-    <div>
+    <main>
     This is my main content
-    </div>
+    </main>
   )
 }
