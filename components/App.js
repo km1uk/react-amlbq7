@@ -1,14 +1,19 @@
 import React from 'react'
-import Navbar from './Navbar'
-import MainContent from './MainContent'
-import Footer from './Footer'
 
 export default function App() {
   return (
     <div>
-      <Navbar />
-      <MainContent />
-      <Footer />
+      <input type="checkbox" />
+      <p>Item 1</p>
+
+      <input type="checkbox" />
+      <p>Item 2</p>
+
+      <input type="checkbox" />
+      <p>Item 3</p>
+
+      <input type="checkbox" />
+      <p>Item 4</p>
     </div>
   )
 }
